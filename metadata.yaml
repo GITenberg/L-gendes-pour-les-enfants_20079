@@ -1,0 +1,45 @@
+_repo: L-gendes-pour-les-enfants_20079
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bertall
+    aliases:
+    - Arnould, Charles Albert d'
+    - Arnoux, Charles Albert d'
+    birthdate: 1820
+    deathdate: 1882
+    gutenberg_agent_id: '9071'
+    url: http://www.gutenberg.org/2009/agents/9071
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Boiteau d'Ambly, Paul
+    aliases:
+    - Boiteau, Dieudonné Alexandre Paul
+    - Boiteau, Dieudonne Alexandre Paul
+    - D'Ambly, Paul Boiteau
+    - Boiteau, Paul
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '33535'
+    url: http://www.gutenberg.org/2009/agents/33535
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2006-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20079'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Legends -- France'
+- !lcsh 'Children''s stories, French'
+tableOfContents: Le roi Dagobert -- Geneviève de Brabant -- Robert le Diable -- Jean
+  de Paris -- Griselidis -- Le Juif errant.
+title: Légendes pour les enfants
+url: http://www.gutenberg.org/ebooks/20079
